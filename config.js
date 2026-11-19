@@ -1,4 +1,5 @@
 var config = {
+    // The basemap style. OpenFreeMap's styles need no account and no key.
     style: "https://tiles.openfreemap.org/styles/liberty",
 
     // A marker at the centre of each chapter's view
