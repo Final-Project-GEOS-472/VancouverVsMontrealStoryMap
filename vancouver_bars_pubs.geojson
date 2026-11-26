@@ -1,0 +1,4610 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-11-20T17:19:48Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/49547895",
+      "properties": {
+        "@id": "way/49547895",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "8901",
+        "addr:postcode": "V6G 3E2",
+        "addr:province": "BC",
+        "addr:street": "Stanley Park Drive",
+        "amenity": "pub",
+        "building": "yes",
+        "craft": "brewery",
+        "diet:vegan": "limited",
+        "indoor_seating": "yes",
+        "name": "Stanley Park Brewing Restaurant and Brewpub",
+        "opening_hours": "11:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-681-0460",
+        "product": "beer",
+        "roof:colour": "black",
+        "smoking": "no",
+        "website": "https://www.stanleyparkbrewing.com/brewpub/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1464586,
+          49.2923109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/163538023",
+      "properties": {
+        "@id": "way/163538023",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "3",
+        "addr:postcode": "V5Y 1M8",
+        "addr:street": "West 8th Avenue",
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "2",
+        "check_date": "2025-05-30",
+        "name": "Anza Club",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1050956,
+          49.2639489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/163679151",
+      "properties": {
+        "@id": "way/163679151",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2148",
+        "addr:street": "Main Street",
+        "alcohol": "yes",
+        "amenity": "pub",
+        "building": "retail",
+        "building:levels": "1",
+        "email": "info@brassneck.ca",
+        "microbrewery": "yes",
+        "name": "Brassneck Brewery",
+        "opening_hours:alcohol": "Su,Mo 14:00-22:00; Tu-Fr 14:00-23:00; Sa 12:00-23:00",
+        "opening_hours:bar": "Su,Mo 14:00-22:00; Tu-Fr 14:00-23:00; Sa 12:00-23:00",
+        "phone": "+1-604-259-7686",
+        "website": "https://brassneck.ca/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.100363,
+          49.265777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/284743300",
+      "properties": {
+        "@id": "way/284743300",
+        "addr:housenumber": "1216",
+        "addr:street": "Franklin Street",
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "2",
+        "email": "contact@cbrew.ca",
+        "name": "Container Brewing Lounge",
+        "opening_hours": "Mo-Th 14:00-21:00; Fr 14:00-22:00; Sa 12:00-22:00; Su 12:00-21:00",
+        "outdoor_seating": "no",
+        "phone": "+1-778-404-0657",
+        "website": "https://containerbrewing.ca/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0786732,
+          49.2821451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/286316995",
+      "properties": {
+        "@id": "node/286316995",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "300",
+        "addr:province": "BC",
+        "addr:street": "Cambie Street",
+        "amenity": "pub",
+        "name": "The Cambie",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.109049,
+          49.2831924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/292349077",
+      "properties": {
+        "@id": "way/292349077",
+        "addr:housenumber": "2616",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "building": "yes",
+        "indoor_seating": "yes",
+        "name": "The Cascade Room",
+        "opening_hours": "Su-We 16:00-23:00, Th 16:00-24:00, Fr,Sa 16:00-01:00",
+        "outdoor_seating": "no",
+        "phone": "+1-604-709-8650",
+        "smoking": "no",
+        "website": "https://www.thecascade.ca/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1006203,
+          49.2617234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/292351757",
+      "properties": {
+        "@id": "way/292351757",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2718",
+        "addr:postcode": "V5T 3E8",
+        "addr:province": "BC",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "building": "retail",
+        "contact:instagram": "singsingyvr",
+        "cuisine": "american;italian_pizza;vietnamese",
+        "description": "Lively, late-night watering hole serving craft beer & Asian comfort fare in a lofty, modern space.",
+        "email": "HELLO@SINGSINGBEERBAR.COM",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Sing Sing",
+        "opening_hours": "Su-Th 11:30-01:00; Fr-Sa 11:30-02:00",
+        "outdoor_seating": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1 604-336-9556",
+        "smoking": "no",
+        "website": "http://singsingyvr.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1006987,
+          49.2607069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/292351764",
+      "properties": {
+        "@id": "way/292351764",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2904",
+        "addr:province": "BC",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Good Co. Bars",
+        "opening_hours": "Su-Th 11:30-24:00, Fr,Sa 11:30-01:00",
+        "phone": "+1-604-565-6246",
+        "website": "https://goodcobars.com/locations/main-street",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1007692,
+          49.2590235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/292384227",
+      "properties": {
+        "@id": "way/292384227",
+        "addr:housenumber": "3835",
+        "addr:postcode": "V5V 3P1",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "2",
+        "email": "info@portlandcraft.com",
+        "name": "Portland Craft",
+        "opening_hours": "Mo,Tu 16:00-01:00; We,Th 15:00-01:00; Fr 15:00-02:00; Sa 11:30-02:00; Su 11:30-00:00",
+        "phone": "+1 604 569 2494",
+        "website": "https://portlandcraft.com",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1013127,
+          49.2506984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/292384725",
+      "properties": {
+        "@id": "way/292384725",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "3917",
+        "addr:postcode": "V5V 3P3",
+        "addr:province": "BC",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Hero's Welcome",
+        "opening_hours": "Su 13:00-24:00; Mo-Tu 16:00-24:00; We 16:00-25:00; Th 16:00-24:00; Fr-Sa 15:00-26:00",
+        "phone": "+1-604-879-1020",
+        "website": "https://www.heros-welcome.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1013865,
+          49.2500867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/292786642",
+      "properties": {
+        "@id": "way/292786642",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1882",
+        "addr:postcode": "V5L 4E5",
+        "addr:street": "Adanac Street",
+        "amenity": "pub",
+        "building": "yes",
+        "description": "Long-running performing arts & concert venue with a downstairs tavern featuring billiards & Wi-Fi.",
+        "name": "Wise Club & Hall",
+        "opening_hours": "Mo-Th 17:00-25:00; Fr-Sa 17:00-26:00; Su 17:00-24:00",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "website": "https://www.wisehall.ca/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0660898,
+          49.2772556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295769099",
+      "properties": {
+        "@id": "way/295769099",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "730",
+        "addr:province": "BC",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Brickhouse",
+        "smoking": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0993698,
+          49.2780211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/305206574",
+      "properties": {
+        "@id": "way/305206574",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1115",
+        "addr:province": "BC",
+        "addr:street": "Granville Street",
+        "amenity": "bar",
+        "building": "yes",
+        "check_date:opening_hours": "2022-11-05",
+        "indoor_seating": "yes",
+        "name": "The Refinery",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "no",
+        "roof:colour": "#a4a19c",
+        "smoking": "no",
+        "website": "https://therefineryvancouver.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1251859,
+          49.278116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505751513",
+      "properties": {
+        "@id": "node/505751513",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "375",
+        "addr:postcode": "V6B 1B8",
+        "addr:province": "BC",
+        "addr:street": "Water Street",
+        "amenity": "pub",
+        "diet:vegan": "yes",
+        "email": "info@steamworks.com",
+        "indoor_seating": "yes",
+        "microbrewery": "yes",
+        "name": "Steamworks",
+        "opening_hours": "Su-Th 11:30-00:00; Fr-Sa 11:30-01:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-604-689-2739",
+        "shop": "alcohol",
+        "smoking": "no",
+        "website": "https://steamworks.com/brew-pub",
+        "wheelchair": "no",
+        "wikidata": "Q17038527"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.110987,
+          49.2848692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/533583781",
+      "properties": {
+        "@id": "way/533583781",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "261",
+        "addr:postcode": "V5T 0B9",
+        "addr:province": "BC",
+        "addr:street": "East 7th Avenue",
+        "amenity": "pub",
+        "building": "retail",
+        "building:levels": "1",
+        "craft": "brewery",
+        "drive_through": "no",
+        "email": "info@mainstreetbeer.ca",
+        "microbrewery": "yes",
+        "name": "Main Street Brewing",
+        "opening_hours": "Mo-Th 14:00-23:00; Fr-Su 12:00-23:00",
+        "operator": "Main Street Brewing Company",
+        "phone": "+1-604-336-7711",
+        "product": "beer",
+        "roof:levels": "1",
+        "website": "https://www.mainstreetbeer.ca/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0993078,
+          49.2647835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/563321283",
+      "properties": {
+        "@id": "node/563321283",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "157",
+        "addr:province": "BC",
+        "addr:street": "Alexander Street",
+        "amenity": "pub",
+        "diet:vegan": "yes",
+        "name": "Alibi Room",
+        "opening_hours": "Mo-Th 17:00-23:30; Fr 17:00-00:30; Sa 10:00-14:45,17:00-00:30; Su 10:00-14:45,17:00-23:30",
+        "smoking": "no",
+        "website": "https://alibi.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1002189,
+          49.2842198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/577896312",
+      "properties": {
+        "@id": "way/577896312",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1675",
+        "addr:postcode": "V5L 2H1",
+        "addr:province": "British Columbia",
+        "addr:street": "Venables Street",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "brewery": "yes",
+        "building": "commercial",
+        "building:levels": "2",
+        "email": "info@eastvanbrewing.com",
+        "internet_access": "wlan",
+        "microbrewery": "yes",
+        "name": "East Vancouver Brewing",
+        "opening_hours": "PH 12:00-23:00; Su-Th 12:00-23:00; Fr-Sa 12:00-23:59; Dec 24 12:00-18:00; Dec 25 off; Dec 31 12:00-21:00",
+        "opening_hours:covid19": "Mo-Sa 12:00-20:00; Su 12:00-18:00",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1-604-558-3822",
+        "roof:shape": "flat",
+        "shop": "alcohol",
+        "smoking": "no",
+        "takeaway:covid19": "only",
+        "website": "https://www.eastvanbrewing.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0711209,
+          49.2769131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/582802138",
+      "properties": {
+        "@id": "node/582802138",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1038",
+        "addr:province": "BC",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "The Ivanhoe Pub",
+        "opening_hours": "Mo-Su 13:00-23:00",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0996162,
+          49.2750807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/635894580",
+      "properties": {
+        "@id": "node/635894580",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "3609",
+        "addr:province": "BC",
+        "addr:street": "West Broadway",
+        "amenity": "pub",
+        "brewery": "gui",
+        "check_date": "2025-05-23",
+        "diet:vegan": "no",
+        "name": "The Wolf and Hound",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "outside",
+        "website": "https://www.wolfandhound.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1842067,
+          49.2644834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/638771021",
+      "properties": {
+        "@id": "node/638771021",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "800",
+        "addr:postcode": "V6Z 1K3",
+        "addr:province": "BC",
+        "addr:street": "Granville Street",
+        "amenity": "pub",
+        "check_date": "2026-11-09",
+        "indoor_seating": "yes",
+        "name": "Lennox Pub",
+        "opening_hours": "Su-Th 11:00-24:00, Fr-Sa 11:00-01:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-604-408-0881",
+        "smoking": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.119819,
+          49.281145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/651055566",
+      "properties": {
+        "@id": "node/651055566",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "965",
+        "addr:postcode": "V6Z 1L3",
+        "addr:province": "BC",
+        "addr:street": "Granville Street",
+        "amenity": "bar",
+        "email": "granville@goodcobars.com",
+        "indoor_seating": "yes",
+        "name": "Good Co. Granville",
+        "opening_hours": "Tu-Th 17:00-24:00, Fr 17:00-02:00, Sa 15:30-02:00; Su,Mo off",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "website": "https://www.goodcobars.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.12269,
+          49.2796758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/700713948",
+      "properties": {
+        "@id": "node/700713948",
+        "amenity": "pub",
+        "name": "East Side Craft House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0760525,
+          49.2329187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/903721300",
+      "properties": {
+        "@id": "node/903721300",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1111",
+        "addr:province": "BC",
+        "addr:street": "Mainland Street",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "craft": "brewery",
+        "indoor_seating": "yes",
+        "name": "Yaletown Brewing Company",
+        "opening_hours": "Mo-Th 11:30-23:00, Fr 11:30-02:00, Sa 10:00-03:00, Su 10:00-23:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-604-681-2739",
+        "product": "beer",
+        "shop": "alcohol",
+        "smoking": "no",
+        "website": "https://yaletownbrewing.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1209671,
+          49.2755046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/937792782",
+      "properties": {
+        "@id": "node/937792782",
+        "addr:housenumber": "1480",
+        "addr:street": "West 11th Avenue",
+        "amenity": "bar",
+        "name": "Bar Asra",
+        "opening_hours": "We-Th 17:00-23:00; Su 17:00-23:00; Fr-Sa 15:00-01:00; Mo-Tu off",
+        "phone": "+1-604-569-2230",
+        "website": "https://www.bar-asra.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1380707,
+          49.2615783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1304277576",
+      "properties": {
+        "@id": "node/1304277576",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2533",
+        "addr:province": "BC",
+        "addr:street": "East Hastings Street",
+        "amenity": "bar",
+        "check_date:opening_hours": "2026-10-15",
+        "name": "Blind Rabbit",
+        "opening_hours:signed": "no",
+        "toilets:wheelchair": "yes",
+        "website": "https://blindrabbit.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.053702,
+          49.2812816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1373339577",
+      "properties": {
+        "@id": "node/1373339577",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "700",
+        "addr:province": "BC",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "check_date": "2024-09-18",
+        "indoor_seating": "yes",
+        "name": "London Pub",
+        "opening_hours": "Su-Th 11:00-01:00, Fr,Sa 11:00-14:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "website": "https://www.londonpubvan.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.099511,
+          49.2784402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1527718450",
+      "properties": {
+        "@id": "way/1527718450",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "1",
+        "name": "Time Out Market Bar",
+        "opening_hours": "Su-Th 11:00-22:00; Fr,Sa 11:00-23:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "start_date": "2026-05-28",
+        "website": "https://www.timeout.com/time-out-market-vancouver",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1181202,
+          49.2322576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1527718465",
+      "properties": {
+        "@id": "way/1527718465",
+        "amenity": "bar",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "1",
+        "name": "Time Out Bar",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "start_date": "2026-05-28",
+        "website": "https://www.timeout.com/time-out-market-vancouver",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1177091,
+          49.2320974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1527724158",
+      "properties": {
+        "@id": "way/1527724158",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "1",
+        "name": "Time Out Market Bar",
+        "opening_hours": "Su-Th 11:00-22:00; Fr,Sa 11:00-23:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "start_date": "2026-05-28",
+        "website": "https://www.timeout.com/time-out-market-vancouver",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1178214,
+          49.2317059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1527724167",
+      "properties": {
+        "@id": "way/1527724167",
+        "amenity": "bar",
+        "indoor": "room",
+        "level": "0",
+        "name": "Delysees Champagne Bar",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-19:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1184751,
+          49.2317145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1722601503",
+      "properties": {
+        "@id": "node/1722601503",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "3124",
+        "addr:street": "West Broadway",
+        "amenity": "pub",
+        "name": "The Fringe Cafe",
+        "start_date": "1990",
+        "website": "https://thefringecafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.174703,
+          49.26404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769910469",
+      "properties": {
+        "@id": "node/1769910469",
+        "addr:housenumber": "2420",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "check_date:opening_hours": "2026-03-17",
+        "contact:instagram": "https://www.instagram.com/pinkysonmain/",
+        "name": "Pinky's On Main",
+        "opening_hours:signed": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1006473,
+          49.2635413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793709914",
+      "properties": {
+        "@id": "node/1793709914",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "455",
+        "addr:province": "BC",
+        "addr:street": "Abbott Street",
+        "amenity": "pub",
+        "check_date": "2026-11-02",
+        "name": "The Pint",
+        "opening_hours": "Mo-Su 11:00-02:00",
+        "website": "http://www.thepint.ca/vancouver/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.107723,
+          49.2812723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1834938167",
+      "properties": {
+        "@id": "node/1834938167",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2204",
+        "addr:postcode": "V6K1C6",
+        "addr:street": "York Avenue",
+        "amenity": "pub",
+        "check_date": "2026-06-06",
+        "diet:vegan": "limited",
+        "name": "Mount Everest Kitchen & Bar",
+        "old_name": "The Ellis",
+        "website": "https://everestkitchenandbar.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.155409,
+          49.2715914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1932455897",
+      "properties": {
+        "@id": "node/1932455897",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2360",
+        "addr:postcode": "V5N 4B7",
+        "addr:province": "BC",
+        "addr:street": "Commercial Drive",
+        "amenity": "pub",
+        "diet:vegan": "no",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "St Augustine's",
+        "opening_hours": "Su-We 11:30-24:00, Th-Sa 11:30-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-558-2739",
+        "smoking": "no",
+        "website": "https://staugustinesvancouver.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.069503,
+          49.263831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1938712075",
+      "properties": {
+        "@id": "node/1938712075",
+        "addr:housenumber": "108",
+        "addr:street": "Cambie Street",
+        "amenity": "pub",
+        "diet:vegan": "no",
+        "name": "Black Frog Eatery",
+        "opening_hours": "Mo-Th 11:00-24:00; Fr 11:00-26:00; Sa 10:00-26:00; Su 10:00-24:00",
+        "phone": "+1-604-602-0527",
+        "website": "https://www.theblackfrog.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1085113,
+          49.2846074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1944641265",
+      "properties": {
+        "@id": "node/1944641265",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1815",
+        "addr:postcode": "V5N 4A6",
+        "addr:province": "BC",
+        "addr:street": "Commercial Drive",
+        "amenity": "bar",
+        "brewery": "yes",
+        "check_date": "2026-09-01",
+        "currency:XBT": "no",
+        "name": "Park Drive",
+        "opening_hours": "Mo-Fr 15:00-00:00; Sa-Su 12:00-00:00",
+        "payment:coinos": "no",
+        "payment:lightning": "no",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "no",
+        "phone": "+1 604 254 2533",
+        "website": "https://www.parkdrive.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0698789,
+          49.2684155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2138612021",
+      "properties": {
+        "@id": "node/2138612021",
+        "addr:housenumber": "1",
+        "addr:postcode": "V6A 1B2",
+        "addr:street": "Alexander Street",
+        "amenity": "pub",
+        "diet:vegan": "limited",
+        "name": "Guilt & Co",
+        "opening_hours": "Mo-Su 19:00-02:00",
+        "website": "https://www.guiltandcompany.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1041219,
+          49.2836569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2321011551",
+      "properties": {
+        "@id": "node/2321011551",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1239",
+        "addr:province": "BC",
+        "addr:street": "Davie Street",
+        "amenity": "pub",
+        "brand:website": "https://guu-izakaya.com",
+        "cuisine": "japanese",
+        "indoor_seating": "yes",
+        "name": "Guu Davie",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa 08:00-18:00",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "website": "https://guu-izakaya.com/location/#Davie",
+        "website:menu": "https://guu-izakaya.com/wp-content/uploads/2026/09/DavieMenu0907.pdf",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1337681,
+          49.2822628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2321016632",
+      "properties": {
+        "@id": "node/2321016632",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1262",
+        "addr:province": "BC",
+        "addr:street": "Davie Street",
+        "amenity": "bar",
+        "check_date:opening_hours": "2022-09-10",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "name": "Score",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "source": "survey",
+        "start_date": "2007",
+        "website": "https://scoreondavie.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.134561,
+          49.2823322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2328938291",
+      "properties": {
+        "@id": "node/2328938291",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "608",
+        "addr:postcode": "V6B 1V8",
+        "addr:province": "BC",
+        "addr:street": "West Pender Street",
+        "amenity": "pub",
+        "check_date": "2026-06-20",
+        "check_date:opening_hours": "2026-06-20",
+        "email": "info@malones.bc.ca",
+        "indoor_seating": "yes",
+        "name": "Malone's Social Lounge & Taphouse",
+        "opening_hours": "Su-Th 10:00-01:00, Fr,Sa 10:00-02:00",
+        "outdoor_seating": "no",
+        "phone": "+1-604-684-9977",
+        "source": "survey",
+        "website": "https://www.malones.bc.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.114107,
+          49.2840215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2488971027",
+      "properties": {
+        "@id": "node/2488971027",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1780",
+        "addr:province": "BC",
+        "addr:street": "Davie Street",
+        "amenity": "pub",
+        "check_date": "2026-10-22",
+        "check_date:opening_hours": "2022-09-03",
+        "contact:instagram": "https://www.instagram.com/threebrits.fc",
+        "email": "threebrits@freehouse.co",
+        "indoor_seating": "yes",
+        "name": "The Three Brits Public House",
+        "opening_hours": "Mo-We 11:30-01:00, Th 11:30-02:00, Fr-Sa 11:30-03:00, Su 11:30-01:00",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-801-6681",
+        "smoking": "no",
+        "website": "https://www.freehouse.co/locations/three-brits",
+        "website:menu": "https://www.datocms-assets.com/75587/1787252849-threebrits-todaysfare_2026.pdf",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1418,
+          49.2870731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2490635047",
+      "properties": {
+        "@id": "node/2490635047",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "724",
+        "addr:province": "BC",
+        "addr:street": "Nelson Street",
+        "air_conditioning": "no",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "The Moose",
+        "opening_hours": "Mo-Su 11:30-02:00",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-604-633-1002",
+        "smoking": "no",
+        "website": "https://themoosevancouver.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.123588,
+          49.2794324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2612812538",
+      "properties": {
+        "@id": "node/2612812538",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1025",
+        "addr:province": "BC",
+        "addr:street": "Davie Street",
+        "air_conditioning": "no",
+        "amenity": "pub",
+        "diet:vegan": "limited",
+        "email": "info@fthdpub.com",
+        "indoor_seating": "yes",
+        "lgbtq": "primary",
+        "name": "The Fountainhead Pub",
+        "opening_hours": "Su-Th 11:00-24:00; Fr,Sa 11:00-25:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-687-2222",
+        "smoking": "no",
+        "website": "https://thefountainheadpub.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q112252285",
+        "wikipedia": "en:Fountainhead Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.12973,
+          49.279654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2933886281",
+      "properties": {
+        "@id": "node/2933886281",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "3032",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "name": "Uncle Abe's",
+        "opening_hours": "Mo-Th 16:00-26:00; Fr 16:00-27:00; Sa 12:00-27:00; Su 12:00-26:00",
+        "website": "https://narrowgroup.ca/project/uncle-abes/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1008893,
+          49.2581266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2933891016",
+      "properties": {
+        "@id": "node/2933891016",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "202",
+        "addr:province": "BC",
+        "addr:street": "East 16th Avenue",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "microbrewery": "yes",
+        "name": "Browns Crafthouse Kitchen & Bar;Browns Crafthouse",
+        "opening_hours": "Su-We 11:00-23:00; Th-Sa 11:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-875-8416",
+        "start_date": "21 Jan 2020",
+        "website": "https://www.brownscrafthouse.com/mainst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1010009,
+          49.256458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3108751085",
+      "properties": {
+        "@id": "node/3108751085",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1202",
+        "addr:postcode": "V6Z 1M4",
+        "addr:street": "Granville Street",
+        "amenity": "bar",
+        "check_date": "2026-04-30",
+        "email": "twoparrotsvancouver@gmail.com",
+        "indoor_seating": "yes",
+        "name": "Two Parrots",
+        "opening_hours": "Mo-Su,PH 12:00-02:00",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-604-685-9657",
+        "smoking": "no",
+        "website": "https://www.twoparrotsvancouver.com/",
+        "website:menu": "https://www.twoparrotsvancouver.com/_files/ugd/8f0180_ecb2707df68c40b4b2b85eb5dc41b9ce.pdf",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1261599,
+          49.2769507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3128863797",
+      "properties": {
+        "@id": "node/3128863797",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "85",
+        "addr:postcode": "V6B 0J2",
+        "addr:province": "BC",
+        "addr:street": "West 1st Avenue",
+        "amenity": "pub",
+        "check_date": "2025-10-12",
+        "diet:vegan": "limited",
+        "internet_access": "wlan",
+        "name": "CRAFT Beer Market (Olympic Village / False Creek)",
+        "opening_hours": "Mo-Th 11:00-00:00; Fr 11:00-01:00; Sa 10:30-01:00; Su 10:30-00:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-604-709-2337",
+        "website": "https://www.craftbeermarket.ca/locations/vancouver-false-creek/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1063824,
+          49.2705733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3155515549",
+      "properties": {
+        "@id": "node/3155515549",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "655",
+        "addr:postcode": "V6C 2R7",
+        "addr:province": "BC",
+        "addr:street": "Burrard Street",
+        "amenity": "bar",
+        "check_date": "2026-10-16",
+        "indoor_seating": "yes",
+        "name": "Grain Tasting Bar",
+        "opening_hours": "Su-Th 15:00-23:00 , Fr-Sa 15:00-00:00",
+        "outdoor_seating": "no",
+        "phone": "+1-604-639-4771",
+        "smoking": "no",
+        "website": "https://vancouver.hyatt.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.120343,
+          49.2852025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3238927234",
+      "properties": {
+        "@id": "node/3238927234",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1898",
+        "addr:postcode": "V5T 3B9",
+        "addr:province": "BC",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "diet:vegan": "no",
+        "name": "The Narrow Lounge",
+        "opening_hours": "Su-Th 17:00-01:00, Fr-Sa 17:00-02:00",
+        "phone": "+1-778-737-5206",
+        "smoking": "no",
+        "website": "http://www.narrowlounge.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.100376,
+          49.2683292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3428111195",
+      "properties": {
+        "@id": "node/3428111195",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2975",
+        "addr:postcode": "V6H 3H6",
+        "addr:street": "Granville Street",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Caffe Barney",
+        "opening_hours": "Mo-Th 10:30-23:00; Fr 10:30-24:00; Sa 09:30-24:00; Su 09:30-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-731-6446",
+        "website": "https://www.caffebarney.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1389344,
+          49.2592076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3646941329",
+      "properties": {
+        "@id": "node/3646941329",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "562",
+        "addr:postcode": "V6B 2L3",
+        "addr:province": "BC",
+        "addr:street": "Beatty Street",
+        "amenity": "bar",
+        "cuisine": "barbecue",
+        "name": "Devil's Elbow Ale and Smoke House",
+        "opening_hours": "Mo-Th 11:30-00:00; Fr-Sa 11:30-01:00; Su 15:00-00:00",
+        "phone": "+1-604-559-0611",
+        "website": "https://www.devilselbowalehouse.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.109748,
+          49.2802664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3675301755",
+      "properties": {
+        "@id": "node/3675301755",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1451",
+        "addr:province": "BC",
+        "addr:street": "Hornby Street",
+        "air_conditioning": "no",
+        "amenity": "pub",
+        "craft": "distillery",
+        "drive_through": "no",
+        "indoor_seating": "yes",
+        "name": "Long Table Distillery",
+        "opening_hours": "We-Th 13:00-18:00; Fr-Sa 13:00-21:00",
+        "outdoor_seating": "no",
+        "phone": "+1-604-266-0177",
+        "smoking": "no",
+        "website": "https://longtabledistillery.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.13243,
+          49.2757682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3699188198",
+      "properties": {
+        "@id": "node/3699188198",
+        "addr:housenumber": "1494",
+        "addr:street": "Old Bridge Street",
+        "addr:unit": "1",
+        "amenity": "bar",
+        "check_date": "2026-10-22",
+        "craft": "distillery",
+        "distillery": "vodka;gin;whiskey",
+        "name": "The Liberty Distillery",
+        "opening_hours": "Su-Th 12:00-19:00; Fr,Sa 12:00-21:00",
+        "phone": "+1 604-558-1998",
+        "website": "https://www.thelibertydistillery.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1345786,
+          49.2704065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3715807287",
+      "properties": {
+        "@id": "node/3715807287",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "888",
+        "addr:province": "BC",
+        "addr:street": "West Cordova Street",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Lions Pub",
+        "opening_hours": "Mo-Tu 11:00-23:00; We-Sa 11:00-24:00; Su 12:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-488-8602",
+        "smoking": "no",
+        "website": "http://www.lionspub.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1148363,
+          49.2869412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3718998435",
+      "properties": {
+        "@id": "node/3718998435",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1616",
+        "addr:postcode": "V6G 1A6",
+        "addr:province": "BC",
+        "addr:street": "Alberni Street",
+        "amenity": "pub",
+        "check_date:opening_hours": "2022-10-29",
+        "diet:vegan": "no",
+        "email": "info@theredaccordion.com",
+        "indoor_seating": "yes",
+        "name": "Red Accordion",
+        "opening_hours": "Mo-Th 12:00-00:00,Fr 12:00-01:00, Sa 10:00-01:00, Su 10:00-00:00",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-428-6464",
+        "smoking": "no",
+        "website": "https://www.theredaccordion.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.131749,
+          49.2902748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3725347745",
+      "properties": {
+        "@id": "node/3725347745",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1227",
+        "addr:province": "BC",
+        "addr:street": "Granville Street",
+        "amenity": "pub",
+        "name": "Pinky’s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1268656,
+          49.2769099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3728575595",
+      "properties": {
+        "@id": "node/3728575595",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "309",
+        "addr:province": "BC",
+        "addr:street": "West Pender Street",
+        "amenity": "pub",
+        "diet:vegan": "limited",
+        "email": "info@themagnet.ca",
+        "indoor_seating": "yes",
+        "name": "The Magnet",
+        "opening_hours": "Mo-Th 16:00-23:30; Fr-Su 15:00-23:30",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "website": "https://themagnet.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1111441,
+          49.2824055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3733886947",
+      "properties": {
+        "@id": "node/3733886947",
+        "amenity": "bar",
+        "name": "Sylvia's Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1426441,
+          49.2885782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3744582937",
+      "properties": {
+        "@id": "node/3744582937",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "8284",
+        "addr:postcode": "V5X 4R6",
+        "addr:street": "Sherbrooke Street",
+        "amenity": "pub",
+        "craft": "brewery",
+        "email": "tastingroom@dogwoodbrewing.ca;dogwood@dogwoodbrew.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "microbrewery": "yes",
+        "name": "Dogwood Brewing",
+        "opening_hours": "We-Th 15:30-20:00; Fr-Su 12:00-20:00; Tu-We 12:00-20:00; Th 12:00-21:00; Fr-Sa 12:00-22:00; Su 12:00-20:00",
+        "organic": "only",
+        "outdoor_seating": "no",
+        "phone": "+1-604-325-3693",
+        "product": "beer",
+        "shop": "alcohol",
+        "website": "https://dogwoodbrew.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0815672,
+          49.2098835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3746968903",
+      "properties": {
+        "@id": "node/3746968903",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "579",
+        "addr:street": "Dunsmuir Street",
+        "amenity": "bar",
+        "disused": "yes",
+        "indoor_seating": "yes",
+        "name": "Railway Club",
+        "outdoor_seating": "no",
+        "website": "https://www.therailwayclub.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.115118,
+          49.2829389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3753257447",
+      "properties": {
+        "@id": "node/3753257447",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "888",
+        "addr:postcode": "V6Z 2S1",
+        "addr:province": "BC",
+        "addr:street": "Nelson Street",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "diet:vegan": "no",
+        "indoor_seating": "yes",
+        "name": "Relish",
+        "opening_hours": "Mo-Th 11:30-02:00, Fr,Sa 11:30-03:00, Su 10:00-02:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "website": "https://www.relishthepub.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.125061,
+          49.2802411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3753258425",
+      "properties": {
+        "@id": "node/3753258425",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "300",
+        "addr:province": "BC",
+        "addr:street": "West Georgia Street",
+        "amenity": "pub",
+        "check_date": "2026-04-13",
+        "check_date:opening_hours": "2026-04-13",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Library Square Public House",
+        "opening_hours": "Mo 14:00+; Tu-Sa 11:00+; Su 10:00+",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "website": "https://www.librarysquarepub.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1149368,
+          49.2801584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3769892471",
+      "properties": {
+        "@id": "node/3769892471",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "905",
+        "addr:province": "BC",
+        "addr:street": "Dunsmuir Street",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Blackbird",
+        "opening_hours": "Fr 11:30-02:00, Mo-Th 11:30-01:00, Sa 16:00-02:00",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.118491,
+          49.2851463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3771328557",
+      "properties": {
+        "@id": "node/3771328557",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "926",
+        "addr:province": "BC",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "name": "The American",
+        "opening_hours": "Su 12:00-24:00; Mo-We 15:00-24:00; Th 15:00-25:00; Fr-Sa 12:00-26:00",
+        "phone": "+1-778-945-6751",
+        "website": "https://www.theamerican.bar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0995594,
+          49.2763102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3789883860",
+      "properties": {
+        "@id": "node/3789883860",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "433",
+        "addr:province": "BC",
+        "addr:street": "West Pender Street",
+        "amenity": "bar",
+        "name": "Yagger's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1123664,
+          49.283201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3892520736",
+      "properties": {
+        "@id": "node/3892520736",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "695",
+        "addr:postcode": "V6B 2P1",
+        "addr:province": "BC",
+        "addr:street": "Cambie Street",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Ventura Room",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-620-5547",
+        "website": "https://www.venturaroom.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11307,
+          49.2796906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3898779304",
+      "properties": {
+        "@id": "node/3898779304",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "340",
+        "addr:province": "BC",
+        "addr:street": "Cambie Street",
+        "amenity": "bar",
+        "name": "Pub 340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.109264,
+          49.2828092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3933398898",
+      "properties": {
+        "@id": "node/3933398898",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "133",
+        "addr:postcode": "V6A 1X3",
+        "addr:province": "BC",
+        "addr:street": "Keefer Street",
+        "amenity": "bar",
+        "name": "The Keefer Bar",
+        "opening_hours": "Su-Th 16:00-25:00; Fr-Sa 16:00-26:00",
+        "phone": "+1-604-688-1961",
+        "website": "https://thekeeferbar.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.101326,
+          49.2796198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3940288768",
+      "properties": {
+        "@id": "node/3940288768",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "560",
+        "addr:postcode": "V6B 3L9",
+        "addr:province": "BC",
+        "addr:street": "Smithe Street",
+        "amenity": "bar",
+        "brewery": "yes",
+        "email": "info@redcardsportsbar.ca",
+        "indoor_seating": "yes",
+        "name": "Red Card Sports Bar + Eatery",
+        "opening_hours": "Mo-Th 11:30-23:00; Fr-Sa 11:30-01:45; Su 09:30-23:00",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "website": "https://www.redcardsportsbar.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.120222,
+          49.2793791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3940619794",
+      "properties": {
+        "@id": "node/3940619794",
+        "addr:housenumber": "320",
+        "addr:street": "Abbott Street",
+        "amenity": "pub",
+        "name": "The Metropole Community Pub",
+        "phone": "+1-604-408-5822",
+        "website": "https://www.themetpub.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1068062,
+          49.2825107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3940929720",
+      "properties": {
+        "@id": "node/3940929720",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "78",
+        "addr:province": "BC",
+        "addr:street": "West Hastings Street",
+        "amenity": "pub",
+        "name": "Vancouver's Favorite Country Music Pub",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1067809,
+          49.2817739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3957339312",
+      "properties": {
+        "@id": "node/3957339312",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1159",
+        "addr:province": "BC",
+        "addr:street": "Granville Street",
+        "amenity": "bar",
+        "check_date:opening_hours": "2022-11-05",
+        "indoor_seating": "yes",
+        "name": "Cabana",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.125676,
+          49.2776684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4006317122",
+      "properties": {
+        "@id": "node/4006317122",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1181",
+        "addr:province": "BC",
+        "addr:street": "Davie Street",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "lgbtq": "primary",
+        "name": "1181 Lounge",
+        "opening_hours": "Mo-Su 20:00-03:00",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "website": "https://www.eleven-81.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.132897,
+          49.281603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4006318250",
+      "properties": {
+        "@id": "node/4006318250",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1167",
+        "addr:province": "BC",
+        "addr:street": "Davie Street",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "lgbtq": "primary",
+        "name": "Pumpjack",
+        "opening_hours": "Mo-Su 13:00-03:00",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "website": "https://www.pumpjackpub.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q55138627",
+        "wikipedia": "en:Pumpjack Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.132742,
+          49.2814951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4276394066",
+      "properties": {
+        "@id": "node/4276394066",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1138",
+        "addr:province": "BC",
+        "addr:street": "Davie Street",
+        "amenity": "bar",
+        "check_date": "2025-06-15",
+        "indoor_seating": "yes",
+        "lgbtq": "primary",
+        "name": "The Junction",
+        "opening_hours": "13:30-27:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "no",
+        "phone": "+1-604-669-2013",
+        "smoking": "no",
+        "website": "https://www.junctionpub.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q28232770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.132345,
+          49.2807293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4304852298",
+      "properties": {
+        "@id": "node/4304852298",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "830",
+        "addr:province": "BC",
+        "addr:street": "West Pender Street",
+        "amenity": "pub",
+        "check_date": "2026-11-09",
+        "cuisine": "burger",
+        "indoor_seating": "yes",
+        "name": "Moose's Down Under",
+        "opening_hours": "Mo,Tu 07:00-21:00; We,Th 07:00-22:00; Fr 07:00-23:00; Sa 17:00-23:00",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1165611,
+          49.2855675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4323351191",
+      "properties": {
+        "@id": "node/4323351191",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1339",
+        "addr:province": "BC",
+        "addr:street": "Robson Street",
+        "amenity": "bar",
+        "check_date": "2024-09-18",
+        "check_date:opening_hours": "2023-08-19",
+        "indoor_seating": "yes",
+        "name": "Switch",
+        "opening_hours": "Su-Th 14:00-26:00; Fr-Sa 14:00-27:00",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "website": "https://switch-vancouver.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.129108,
+          49.2875709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4323696593",
+      "properties": {
+        "@id": "node/4323696593",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1227",
+        "addr:province": "BC",
+        "addr:street": "Robson Street",
+        "amenity": "pub",
+        "check_date": "2024-09-18",
+        "indoor_seating": "yes",
+        "name": "Shenanigans",
+        "opening_hours": "Mo-Sa 12:00-02:00, Su 11:00-24:00",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.127498,
+          49.2866559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4349328377",
+      "properties": {
+        "@id": "node/4349328377",
+        "addr:housenumber": "610",
+        "addr:postcode": "V5Z 3Z1",
+        "addr:street": "Stamps Landing",
+        "amenity": "pub",
+        "diet:vegan": "no",
+        "email": "Reservations@thewicklow.com",
+        "name": "The Wicklow",
+        "phone": "+1 604 879 0821",
+        "website": "https://thewicklow.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1186399,
+          49.2687109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4349329290",
+      "properties": {
+        "@id": "node/4349329290",
+        "addr:housenumber": "1357",
+        "addr:postcode": "V5L 1G8",
+        "addr:street": "Powell Street",
+        "amenity": "bar",
+        "email": "tim@powellbeer.com",
+        "name": "Powell Brewery Tasting Room",
+        "opening_hours": "Mo-Th 14:00-21:00; Fr-Sa 12:00-22:00; Su 12:00-20:00",
+        "shop": "alcohol",
+        "website": "https://www.powellbeer.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0757617,
+          49.2833773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4351939531",
+      "properties": {
+        "@id": "node/4351939531",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "466",
+        "addr:postcode": "V5X 0C4",
+        "addr:street": "Southwest Marine Drive",
+        "amenity": "pub",
+        "level": "1",
+        "name": "Dublin Crossing Irish Pub",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-428-8577",
+        "website": "https://dublincrossingvancouver.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1162515,
+          49.2094647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4356771490",
+      "properties": {
+        "@id": "node/4356771490",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1830",
+        "addr:postcode": "V5T 2W6",
+        "addr:street": "Ontario Street",
+        "amenity": "pub",
+        "brewery": "yes",
+        "check_date": "2025-05-30",
+        "craft": "brewery",
+        "diet:vegan": "limited",
+        "email": "hola@facultybrewing.com",
+        "microbrewery": "yes",
+        "name": "Faculty Brewing",
+        "opening_hours": "Mo-Fr 14:00-23:00; Sa-Su 11:00-23:00",
+        "outdoor_seating": "no",
+        "phone": "+1-778-819-6794",
+        "product": "beer",
+        "shop": "alcohol",
+        "website": "https://www.facultybrewing.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.10449,
+          49.2686594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4358246400",
+      "properties": {
+        "@id": "node/4358246400",
+        "addr:city": "Vancouver",
+        "amenity": "pub",
+        "diet:vegan": "yes",
+        "name": "R & B Ale & Pizza House",
+        "opening_hours": "Su-Tu 11:00-23:00; We-Sa 11:00-00:00",
+        "phone": "+1-604-336-0275",
+        "website": "https://www.randbbrewing.com/alehouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1035211,
+          49.2672401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4390232892",
+      "properties": {
+        "@id": "node/4390232892",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "162",
+        "addr:postcode": "V6B 1B2",
+        "addr:province": "BC",
+        "addr:street": "Water Street",
+        "amenity": "pub",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "internet_access": "wlan",
+        "name": "Pourhouse",
+        "opening_hours": "Mo-Th,Su 17:00-00:00; Fr,Sa 17:00-01:00",
+        "phone": "+1-604-568-7022",
+        "website": "https://www.pourhousevancouver.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1083829,
+          49.2841314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4402102252",
+      "properties": {
+        "@id": "node/4402102252",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1351",
+        "addr:postcode": "V5L 2C4",
+        "addr:province": "BC",
+        "addr:street": "Adanac Street",
+        "amenity": "bar",
+        "brewery": "yes",
+        "check_date": "2026-05-26",
+        "email": "trigger@offtherailbrewing.com",
+        "name": "Off The Rail Tasting Room",
+        "opening_hours": "Su-Th 12:00-20:00; Fr-Sa 12:00-22:00",
+        "phone": "+1-604-563-5767",
+        "shop": "alcohol",
+        "website": "https://offtherailbrewing.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0760415,
+          49.2777606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4402102597",
+      "properties": {
+        "@id": "node/4402102597",
+        "addr:city": "Vancouver",
+        "amenity": "bar",
+        "changing_table": "yes",
+        "changing_table:location": "unisex_toilet",
+        "name": "Bomber Tasting Room",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "phone": "+1-604-428-7457",
+        "shop": "alcohol",
+        "website": "https://bomberbrewing.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0745168,
+          49.2774745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4433659025",
+      "properties": {
+        "@id": "node/4433659025",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1283",
+        "addr:province": "BC",
+        "addr:street": "Hamilton Street",
+        "amenity": "bar",
+        "name": "Soho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.124112,
+          49.2741305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4491734669",
+      "properties": {
+        "@id": "node/4491734669",
+        "access": "customers",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2201",
+        "addr:postcode": "V6K 3E6",
+        "addr:province": "BC",
+        "addr:street": "West 1st Avenue",
+        "amenity": "pub",
+        "fax": "+1 604 558-4449",
+        "name": "Chewies Oyster Bar",
+        "opening_hours": "Tu-Th 17:00-23:30; Fr 16:00-23:30; Sa-Su 15:00-23:30",
+        "phone": "+1 604 558-4448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1552415,
+          49.2709545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4497495259",
+      "properties": {
+        "@id": "node/4497495259",
+        "addr:housenumber": "7",
+        "addr:postcode": "V6A 1E9",
+        "addr:street": "Alexander Street",
+        "amenity": "pub",
+        "diet:vegan": "no",
+        "name": "The Portside Pub",
+        "opening_hours": "Mo-Fr 11:00-24:00+, Sa,Su 10:00-24:00+",
+        "phone": "+1-604-559-6333",
+        "website": "https://theportsidepub.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1038811,
+          49.2835624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4503723422",
+      "properties": {
+        "@id": "node/4503723422",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2283",
+        "addr:province": "BC",
+        "addr:street": "West Broadway",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "The Regal Beagle",
+        "opening_hours": "Mo-Th 11:00-24:00; Fr 11:00-25:00; Sa 10:00-25:00; Su 10:00-26:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-739-0677",
+        "website": "https://thebeagle.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1567706,
+          49.2640449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4631108810",
+      "properties": {
+        "@id": "node/4631108810",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "97",
+        "addr:postcode": "V5T 1B3",
+        "addr:street": "East 2nd Avenue",
+        "amenity": "pub",
+        "check_date": "2026-04-12",
+        "check_date:opening_hours": "2026-04-12",
+        "diet:vegan": "no",
+        "name": "Brewhall",
+        "opening_hours": "11:00+",
+        "phone": "+1-604-709-8623",
+        "smoking": "no",
+        "website": "https://brewhall.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.103525,
+          49.2694368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4638868843",
+      "properties": {
+        "@id": "node/4638868843",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1",
+        "addr:postcode": "V5Y 0B1",
+        "addr:street": "Athletes Way",
+        "amenity": "pub",
+        "diet:vegan": "yes",
+        "email": "village@tapandbarrel.com",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Tap & Barrel",
+        "opening_hours": "Su,Mo 10:00-24:00, Sa 10:00-01:00, Tu-Th 11:00-24:00, Fr 11:00-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-685-2223",
+        "smoking": "no",
+        "website": "https://tapandbarrel.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.106066,
+          49.2717552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4689872192",
+      "properties": {
+        "@id": "node/4689872192",
+        "addr:housenumber": "1601",
+        "addr:postcode": "V6A 2W5",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "brand": "Fionn MacCool's",
+        "diet:vegan": "no",
+        "name": "Fionn MacCool's",
+        "opening_hours": "Su-Th 11:00-24:00, Fr,Sa 11:00-01:00",
+        "phone": "+1-604-336-3768",
+        "theme": "irish",
+        "website": "http://fionnmaccools.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1006944,
+          49.2714864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4731544039",
+      "properties": {
+        "@id": "node/4731544039",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "88",
+        "addr:street": "West Pender Street",
+        "amenity": "bar",
+        "name": "Shiny Tea",
+        "name:en": "Shiny Tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1068483,
+          49.2802068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4735917054",
+      "properties": {
+        "@id": "node/4735917054",
+        "addr:housenumber": "1901",
+        "addr:street": "Dundas Street",
+        "addr:unit": "120",
+        "amenity": "pub",
+        "check_date": "2026-10-26",
+        "name": "Princeton Pub",
+        "opening_hours": "Mo-Th,Su 11:00-00:00; Fr,Sa 11:00-01:00",
+        "phone": "+1-604-253-6645",
+        "website": "http://www.princetonpub.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0649633,
+          49.2849397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4750152821",
+      "properties": {
+        "@id": "node/4750152821",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "3175",
+        "addr:street": "Kingsway",
+        "amenity": "bar",
+        "cuisine": "portuguese",
+        "indoor_seating": "yes",
+        "min_age": "19",
+        "name": "Metro Coffee Bar & Billiards",
+        "outdoor_seating": "yes",
+        "sport": "billiards"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.038118,
+          49.2353139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4793620025",
+      "properties": {
+        "@id": "node/4793620025",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1167",
+        "addr:province": "BC",
+        "addr:street": "Marinaside Crescent",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "The Wine Bar",
+        "name:en": "The Wine Bar",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.119518,
+          49.2733358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4796015027",
+      "properties": {
+        "@id": "node/4796015027",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1755",
+        "addr:province": "BC",
+        "addr:street": "Davie Street",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "The Park at English Bay",
+        "opening_hours": "Mo-Su 07:00-00:30",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "website": "https://www.parkpub.ca/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.141081,
+          49.2869536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4859906521",
+      "properties": {
+        "@id": "node/4859906521",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1184",
+        "addr:province": "BC",
+        "addr:street": "Denman Street",
+        "addr:unit": "102",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Shamrock Bar & Grill",
+        "opening_hours": "Su-Th 12:00-01:00, Fr-Sa 12:00-02:00",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "website": "https://www.theshamrock.ca/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1413377,
+          49.2874043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4859979322",
+      "properties": {
+        "@id": "node/4859979322",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "203",
+        "addr:postcode": "V6B 2J2",
+        "addr:street": "Carrall Street",
+        "amenity": "pub",
+        "diet:vegan": "no",
+        "email": "info@sixacres.ca",
+        "name": "Six Acres",
+        "opening_hours": "Su-Th 11:30-23:30; Fr-Sa 11:30-00:30",
+        "phone": "+1-604-488-0110",
+        "website": "https://www.sixacres.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1044261,
+          49.2833658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5004072522",
+      "properties": {
+        "@id": "node/5004072522",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1100",
+        "addr:province": "BC",
+        "addr:street": "Burrard Street",
+        "addr:unit": "101",
+        "amenity": "pub",
+        "check_date": "2026-05-02",
+        "indoor_seating": "yes",
+        "name": "French Creek Pub",
+        "opening_hours": "09:00-21:00",
+        "outdoor_seating": "no",
+        "phone": "+16045590444",
+        "smoking": "no",
+        "was:name": "Burgoo",
+        "website": "https://frenchcreekpub.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.127571,
+          49.27993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5040239321",
+      "properties": {
+        "@id": "node/5040239321",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1055",
+        "addr:postcode": "V6C 0C3",
+        "addr:province": "BC",
+        "addr:street": "Canada Place",
+        "addr:unit": "76",
+        "amenity": "pub",
+        "brewery": "yes",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "yes",
+        "email": "convention@tapandbarrel.com",
+        "indoor_seating": "yes",
+        "name": "Tap & Barrel",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-604-235-9827",
+        "smoking": "no",
+        "website": "https://tapandbarrel.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.116892,
+          49.2898003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5050046730",
+      "properties": {
+        "@id": "node/5050046730",
+        "amenity": "pub",
+        "diet:vegan": "no",
+        "email": "info@redtruckbeer.com",
+        "name": "Truck Stop Diner",
+        "phone": "+1-604-682-4733",
+        "website": "https://www.redtruckbeer.com/truck-stop/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0967506,
+          49.2688201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5120582599",
+      "properties": {
+        "@id": "node/5120582599",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "92",
+        "addr:postcode": "V6B 1A4",
+        "addr:street": "Water Street",
+        "amenity": "pub",
+        "name": "The Lamplighter Public House",
+        "opening_hours": "We 16:00-24:00; Th 16:00-25:00; Fr 16:00-17:00; Sa 12:00-27:00; Su 12:00-24:00",
+        "operator": "Donnelly Group",
+        "phone": "+1-604-687-4424",
+        "website": "https://www.freehouse.co/locations/lamplighter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1062465,
+          49.2837445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5134413847",
+      "properties": {
+        "@id": "node/5134413847",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "580",
+        "addr:postcode": "V6B 1W7",
+        "addr:province": "BC",
+        "addr:street": "West Pender Street",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "check_date": "2026-03-26",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "WINGS Tap & Social",
+        "opening_hours": "Th,Su-Tu 11:00-23:00, We,Fr,Sa 11:00-24:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "website": "https://greatwings.ca/vancouver",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11386,
+          49.2838379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5152793226",
+      "properties": {
+        "@id": "node/5152793226",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "900",
+        "addr:province": "BC",
+        "addr:street": "Seymour Street",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Uva",
+        "opening_hours": "Mo-Su 14:00-24:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-604-632-9560",
+        "smoking": "no",
+        "website": "https://www.uvavancouver.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1204432,
+          49.2795188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5401639183",
+      "properties": {
+        "@id": "node/5401639183",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "900",
+        "addr:province": "BC",
+        "addr:street": "Granville Street",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Dublin Calling",
+        "opening_hours": "Su-We 12:00-01:00, Th 12:00-02:00, Fr,Sa 12:00-03:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "website": "https://www.dublincalling.com/vancouver/home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.121444,
+          49.2800971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5521168522",
+      "properties": {
+        "@id": "node/5521168522",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2755",
+        "addr:postcode": "V5T 0A9",
+        "addr:street": "Prince Edward Street",
+        "amenity": "bar",
+        "check_date": "2025-10-24",
+        "name": "Biltmore Cabaret",
+        "phone": "+1-604-676-0541",
+        "website": "https://www.biltmorecabaret.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0964165,
+          49.2603696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5581881762",
+      "properties": {
+        "@id": "node/5581881762",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "303",
+        "addr:street": "Columbia Street",
+        "amenity": "bar",
+        "check_date": "2026-10-08",
+        "name": "Back and Forth Bar",
+        "note": "They have ping pong. Not sure about how to tag that"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1024011,
+          49.2821955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5740411412",
+      "properties": {
+        "@id": "node/5740411412",
+        "alt_name": "Pat's Pub",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Hastings Mill Brewing",
+        "opening_hours": "closed",
+        "outdoor_seating": "no",
+        "product": "beer",
+        "website": "https://www.hastingsmillbrewing.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0949663,
+          49.2814329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5742838921",
+      "properties": {
+        "@id": "node/5742838921",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "20",
+        "addr:postcode": "V5T 1E8",
+        "addr:province": "BC",
+        "addr:street": "East 4th Avenue",
+        "amenity": "bar",
+        "check_date": "2026-04-17",
+        "email": "info@ebbeer.com",
+        "name": "Electric Bicycle Brewing",
+        "opening_hours": "Mo-Th 14:00-23:00; Fr-Sa 11:00-00:00; Su 11:00-23:00",
+        "outdoor_seating": "no",
+        "phone": "+1-604-709-9939",
+        "shop": "alcohol",
+        "website": "https://electricbicyclebrewing.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1042375,
+          49.2672724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5791423754",
+      "properties": {
+        "@id": "node/5791423754",
+        "addr:housenumber": "395",
+        "addr:street": "Kingsway",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Foy's Irish Bar & Grill",
+        "opening_hours": "Su 09:30-01:00; Mo-Th 12:00-01:00; Fr 12:00-02:00; Sa 11:00-02:00",
+        "outdoor_seating": "no",
+        "phone": "+1-236-521-0093",
+        "website": "https://www.foysirishbar.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.096718,
+          49.2602927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5835352273",
+      "properties": {
+        "@id": "node/5835352273",
+        "amenity": "bar",
+        "drive_through": "no",
+        "name": "Parallel 49 Tasting Room & Beer Store",
+        "opening_hours": "11:00-23:00",
+        "phone": "+1-604-558-2739",
+        "shop": "alcohol",
+        "website": "https://parallel49brewing.com/tasting_room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0641858,
+          49.2837876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5835352274",
+      "properties": {
+        "@id": "node/5835352274",
+        "amenity": "pub",
+        "name": "Parallel 49 Street Kitchen",
+        "opening_hours": "Su-Th 11:00-00:00; Fr-Sa 11:00-01:00",
+        "website": "https://parallel49brewing.com/street_kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0643214,
+          49.2837887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5867020312",
+      "properties": {
+        "@id": "node/5867020312",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1774",
+        "addr:street": "West 7th Avenue",
+        "amenity": "pub",
+        "check_date": "2026-07-07",
+        "diet:vegan": "no",
+        "name": "Carlos O`Bryan's Neighborhood Pub",
+        "opening_hours": "Su-Th 11:00-24:00; Fr-Sa 11:00-25:00",
+        "phone": "+1-604-732-0010",
+        "website": "https://www.kobcob.com/locations/kitsilano",
+        "website:menu": "https://www.kobcob.com/menu/carloskits/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1453865,
+          49.2653026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5949604509",
+      "properties": {
+        "@id": "node/5949604509",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "611",
+        "addr:street": "Gore Avenue",
+        "amenity": "bar",
+        "name": "Bleach@611 - Listening?? Room",
+        "website": "https://bleachstudios.xyz/pages/listening-room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0973696,
+          49.2791433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6148806055",
+      "properties": {
+        "@id": "node/6148806055",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "4362",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "The Shameful Tiki Room",
+        "opening_hours": "17:00-24:00",
+        "outdoor_seating": "no",
+        "website": "https://shamefultikiroom.com/vancouver/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1009863,
+          49.2461154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6219907894",
+      "properties": {
+        "@id": "node/6219907894",
+        "addr:city": "Vancouver",
+        "addr:province": "BC",
+        "amenity": "pub",
+        "check_date:opening_hours": "2021-11-09",
+        "indoor_seating": "yes",
+        "name": "Granville Island Brewing Taproom",
+        "opening_hours": "Mo-Th 12:00-20:00; Fr-Su 11:00-20:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-687-2739",
+        "website": "https://www.granvilleislandbrewing.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1356713,
+          49.2705549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6222249986",
+      "properties": {
+        "@id": "node/6222249986",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "216",
+        "addr:province": "BC",
+        "addr:street": "Carrall Street",
+        "amenity": "pub",
+        "name": "The Blarney Stone",
+        "opening_hours": "Su-Th 11:00-26:00; Fr-Sa 11:00-27:00",
+        "smoking": "no",
+        "website": "https://blarneystone.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.104148,
+          49.2827946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6245713585",
+      "properties": {
+        "@id": "node/6245713585",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1082",
+        "addr:province": "BC",
+        "addr:street": "Granville Street",
+        "amenity": "pub",
+        "check_date": "2026-04-22",
+        "check_date:opening_hours": "2026-04-22",
+        "cuisine": "irish",
+        "diet:vegan": "limited",
+        "email": "Info@donnellansirishpub.com",
+        "image": "https://storage5.openstreetcam.org/files/photo/2017/8/26/lth/554131_3ac32_44.jpg",
+        "indoor_seating": "yes",
+        "name": "Donnellan's Irish Pub",
+        "opening_hours": "Mo-Th 12:00-24:00, Fr,Sa 12:00-03:00, Su 12:00-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-564-4277",
+        "smoking": "no",
+        "theme": "irish",
+        "website": "https://www.donnellansirishpub.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.124191,
+          49.2782909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6269242187",
+      "properties": {
+        "@id": "node/6269242187",
+        "addr:housenumber": "2471",
+        "addr:street": "East Hastings Street",
+        "amenity": "pub",
+        "check_date:opening_hours": "2026-10-15",
+        "name": "The Brighton",
+        "opening_hours:signed": "no",
+        "phone": "+1-604-428-8822",
+        "smoking": "no",
+        "website": "https://thebrightonpub.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0551869,
+          49.2812826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6339114662",
+      "properties": {
+        "@id": "node/6339114662",
+        "amenity": "bar",
+        "changing_table": "yes",
+        "changing_table:location": "unisex_toilet",
+        "email": "hi@33brewingexp.com",
+        "name": "33 Brewing Experiment",
+        "opening_hours": "Mo,Th-Sa 12:00-23:00; Su 13:00-22:00",
+        "outdoor_seating": "no",
+        "phone": "+1-604-812-4281",
+        "shop": "alcohol",
+        "website": "https://33brewingexp.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1055201,
+          49.2639071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6339114663",
+      "properties": {
+        "@id": "node/6339114663",
+        "amenity": "bar",
+        "drive_through": "no",
+        "email": "beer@33acresbrewing.com",
+        "name": "33 Acres Brewing",
+        "opening_hours": "Mo-Fr 09:00-23:00; Sa-Su 10:00-23:00",
+        "outdoor_seating": "no",
+        "phone": "+1-604-620-4589",
+        "shop": "alcohol",
+        "website": "https://33acresbrewing.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1053136,
+          49.2639071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6437608536",
+      "properties": {
+        "@id": "node/6437608536",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "50",
+        "addr:street": "West Cordova Street",
+        "amenity": "bar",
+        "name": "Greta YVR",
+        "opening_hours": "Fr, Sa 15:00-03:00; Mo-Th, Su 15:00-02:00",
+        "phone": "+1-604-423-3081",
+        "website": "https://www.gretabar.com/locations/vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.105799,
+          49.2826091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6476617352",
+      "properties": {
+        "@id": "node/6476617352",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1199",
+        "addr:province": "BC",
+        "addr:street": "West Cordova Street",
+        "amenity": "bar",
+        "name": "TAP shack Eatery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1212996,
+          49.289767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6515844835",
+      "properties": {
+        "@id": "node/6515844835",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1672",
+        "addr:street": "Franklin Street",
+        "amenity": "bar",
+        "check_date": "2023-04-28",
+        "name": "Resurrection Distillery and Lounge",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0709001,
+          49.2820791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6553721261",
+      "properties": {
+        "@id": "node/6553721261",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1348",
+        "addr:province": "BC",
+        "addr:street": "Robson Street",
+        "amenity": "bar",
+        "check_date": "2024-09-18",
+        "indoor_seating": "yes",
+        "name": "The Den",
+        "opening_hours": "Mo-Th 16:00-01:00; Fr,Sa 16:00-02:00; Su 16:00-23:00",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "website": "http://www.thedenvancouver.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.129581,
+          49.2874645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6573857524",
+      "properties": {
+        "@id": "node/6573857524",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "888",
+        "addr:postcode": "V6Z 1X9",
+        "addr:province": "BC",
+        "addr:street": "Burrard Street",
+        "addr:unit": "103",
+        "amenity": "pub",
+        "contact:instagram": "https://www.instagram.com/ballyhoo.fc/",
+        "email": "ballyhoo@donnellygroup.ca",
+        "indoor_seating": "yes",
+        "name": "Ballyhoo Public House",
+        "opening_hours": "Su-Th 12:00-02:00, Fr,Sa 12:00-03:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-604-423-2771",
+        "smoking": "no",
+        "website": "https://www.freehouse.co/locations/ballyhoo",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.124119,
+          49.2822225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6751964083",
+      "properties": {
+        "@id": "node/6751964083",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "3080",
+        "addr:province": "BC",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "check_date": "2025-01-03",
+        "check_date:opening_hours": "2025-01-03",
+        "name": "The Watson",
+        "opening_hours": "Mo-Th 16:00-24:00; Fr 16:00-25:00; Sa 15:00-25:00; Su 15:00-24:00",
+        "opening_hours:signed": "no",
+        "phone": "+1-604-559-5266",
+        "website": "https://www.thewatson.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1009013,
+          49.2577968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6762782586",
+      "properties": {
+        "@id": "node/6762782586",
+        "addr:housenumber": "1541",
+        "addr:street": "West 6th Avenue",
+        "amenity": "bar",
+        "name": "Grapes and Soda",
+        "opening_hours": "Mo-Sa 17:00-22:00",
+        "phone": "+1-604-336-2456",
+        "website": "https://grapesandsoda.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1396791,
+          49.2663469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6862208766",
+      "properties": {
+        "@id": "node/6862208766",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "3255",
+        "addr:street": "West Broadway",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Good Co",
+        "opening_hours": "Su-Th 11:30-00:00; Fr-Sa 11:30-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-559-6070",
+        "website": "https://goodcobars.com/locations/kitsilano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.176937,
+          49.264355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6933799872",
+      "properties": {
+        "@id": "node/6933799872",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "649",
+        "addr:postcode": "V6B 2P1",
+        "addr:province": "BC",
+        "addr:street": "Cambie Street",
+        "amenity": "pub",
+        "check_date": "2026-03-26",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Browns Social House",
+        "opening_hours": "Mo-Fr 11:00-00:00; Sa, Su 10:00-00:00",
+        "outdoor_seating": "yes",
+        "phone": "+1 604 620 5545",
+        "smoking": "no",
+        "website": "https://brownssocialhouse.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.113076,
+          49.2797733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6950222736",
+      "properties": {
+        "@id": "node/6950222736",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1042",
+        "addr:province": "BC",
+        "addr:street": "Davie Street",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "lgbtq": "primary",
+        "name": "Numbers",
+        "opening_hours": "21:00-03:00",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "no",
+        "phone": "+1-604-685-4077",
+        "website": "https://numbers.ca/",
+        "wheelchair": "no",
+        "wikidata": "Q28232773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.130399,
+          49.2796989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7179998213",
+      "properties": {
+        "@id": "node/7179998213",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1602",
+        "addr:postcode": "V6K 3E7",
+        "addr:province": "BC",
+        "addr:street": "Yew Street",
+        "amenity": "bar",
+        "check_date": "2026-07-09",
+        "contact:facebook": "The-Cider-House-111579863922526",
+        "contact:instagram": "vancitycider",
+        "diet:vegan": "only",
+        "email": "info@ciderhouserules.ca",
+        "name": "The Cider House",
+        "opening_hours": "Mo-Th 16:00-22:00; Fr 13:00-23:00; Sa 12:00-23:00; Su 12:00-22:00",
+        "phone": "+1-604-558-1975",
+        "website": "https://ciderhouserules.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.154847,
+          49.2715608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7647499486",
+      "properties": {
+        "@id": "node/7647499486",
+        "addr:housenumber": "2305",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "name": "Key Party",
+        "opening_hours": "Su-We 17:00-25:00; Th-Sa 17:00-26:00",
+        "website": "https://narrowgroup.ca/project/key-party/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1011644,
+          49.2644353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7836192639",
+      "properties": {
+        "@id": "node/7836192639",
+        "addr:city": "Vancouver",
+        "addr:postcode": "V5L 3H7",
+        "addr:province": "BC",
+        "addr:street": "Clark Drive",
+        "amenity": "bar",
+        "drive_through": "no",
+        "email": "info@superfluxbeer.com",
+        "name": "Superflux Beer Store",
+        "opening_hours": "Su-Tu 12:00-21:00, We-Th 12:00-22:00, Fr-Sa 12:00-23:00",
+        "shop": "alcohol",
+        "website": "https://www.superfluxbeer.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.077344,
+          49.28021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8533748445",
+      "properties": {
+        "@id": "node/8533748445",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1026",
+        "addr:postcode": "V6B 2T4",
+        "addr:province": "BC",
+        "addr:street": "Mainland Street",
+        "amenity": "bar",
+        "email": "info@bartholomewbar.com",
+        "indoor_seating": "yes",
+        "name": "Bartholomew",
+        "opening_hours": "Su-We 17:00-00:00; Th-Sa 17:00-01:00",
+        "outdoor_seating": "no",
+        "website": "https://www.bartholomewbar.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1195743,
+          49.276088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8913557680",
+      "properties": {
+        "@id": "node/8913557680",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "248",
+        "addr:province": "BC",
+        "addr:street": "East Georgia Street",
+        "amenity": "pub",
+        "check_date": "2026-05-02",
+        "diet:vegan": "limited",
+        "indoor_seating": "yes",
+        "name": "The Irish Heather Shebeen",
+        "name:en": "The Irish Heather Shebeen",
+        "name:zh": "爱尔兰希瑟",
+        "opening_hours": "We-Fr 12:00-18:00+; Sa,Su 11:00-18:00+",
+        "outdoor_seating": "no",
+        "phone": "+1-604-688-9779",
+        "smoking": "no",
+        "website": "https://www.irishheather.com/home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0980902,
+          49.2784186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9211349987",
+      "properties": {
+        "@id": "node/9211349987",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "678",
+        "addr:postcode": "V6B 6K4",
+        "addr:province": "BC",
+        "addr:street": "Nelson Street",
+        "amenity": "pub",
+        "brewery": "guiness",
+        "check_date": "2026-06-15",
+        "check_date:opening_hours": "2026-05-25",
+        "cuisine": "irish",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Shamrock Storehouse",
+        "opening_hours": "Su-We 09:00-24:00,Th 09:00-01:00, Fr-Sa 09:00-03:00",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "yes",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.123001,
+          49.2790671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9246794604",
+      "properties": {
+        "@id": "node/9246794604",
+        "addr:housenumber": "3336",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Good Thief",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1010059,
+          49.2552878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9582167492",
+      "properties": {
+        "@id": "node/9582167492",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2287",
+        "addr:street": "West Broadway",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "The Mac Billiards",
+        "opening_hours": "Mo-We 15:00-24:00; Th-Fr 15:00-25:00; Sa 10:00-25:00; Su 10:00-24:00",
+        "outdoor_seating": "no",
+        "phone": "+1-604-606-7575",
+        "sport": "billiards",
+        "website": "https://themac.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.15692,
+          49.26404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9621603199",
+      "properties": {
+        "@id": "node/9621603199",
+        "addr:housenumber": "1301",
+        "addr:street": "Commercial Drive",
+        "amenity": "bar",
+        "check_date": "2026-10-26",
+        "name": "Mum's the Word",
+        "opening_hours": "Mo-Su 09:00-24:00",
+        "phone": "+1-604-251-6246",
+        "smoking": "no",
+        "website": "https://www.mumsvancouver.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.069775,
+          49.2729429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9727938472",
+      "properties": {
+        "@id": "node/9727938472",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1161",
+        "addr:postcode": "V6E 0B3",
+        "addr:province": "BC",
+        "addr:street": "West Georgia Street",
+        "amenity": "bar",
+        "check_date:opening_hours": "2022-10-18",
+        "name": "Mansion Nightclub",
+        "opening_hours:signed": "no",
+        "website": "https://mansionclub.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.124392,
+          49.2869241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9943988295",
+      "properties": {
+        "@id": "node/9943988295",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "957",
+        "addr:province": "BC",
+        "addr:street": "Granville Street",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Granville Room",
+        "opening_hours": "Tu-Th,Su 11:00-03:00, Fr,Sa 10:00-03:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "website": "https://thegranvilleroom.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1225277,
+          49.2797823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9991877438",
+      "properties": {
+        "@id": "node/9991877438",
+        "addr:housenumber": "2275",
+        "addr:street": "Main Street",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "email": "mt.pleasant@steamworks.com",
+        "indoor_seating": "yes",
+        "name": "Steamworks Brewing Co.",
+        "opening_hours": "Mo 11:30-22:00; Tu-Th 11:30-23:00; Fr 11:30-00:00; Sa 11:00-00:00; Su 11:00-22:00",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "website": "https://steamworks.com/mount-pleasant/",
+        "website:menu": "https://steamworks.com/mount-pleasant/#!/menu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1011809,
+          49.2650269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10928025190",
+      "properties": {
+        "@id": "node/10928025190",
+        "addr:housenumber": "237",
+        "addr:street": "Union Street",
+        "amenity": "bar",
+        "name": "Bar Gobo",
+        "opening_hours": "We-Su 17:00-23:00",
+        "phone": "+1-604-423-5400",
+        "website": "https://www.bargobo.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0983733,
+          49.2777874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11018782682",
+      "properties": {
+        "@id": "node/11018782682",
+        "addr:housenumber": "1614",
+        "addr:street": "West 3rd Avenue",
+        "amenity": "bar",
+        "craft": "brewery",
+        "name": "Brewing August",
+        "opening_hours": "Mo-We 16:00-22:00; Th 12:00-22:00; Fr-Sa 12:00-23:00; Su 12:00-20:00",
+        "product": "beer",
+        "shop": "alcohol",
+        "website": "https://www.brewingaugust.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1413581,
+          49.2686874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11034887090",
+      "properties": {
+        "@id": "node/11034887090",
+        "amenity": "pub",
+        "name": "Batch",
+        "opening_hours": "We-Fr 15:00-22:00; Sa-Su 12:00-22:00",
+        "website": "https://batchvancouver.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1105186,
+          49.2747195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11079577905",
+      "properties": {
+        "@id": "node/11079577905",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "521",
+        "addr:province": "BC",
+        "addr:street": "Seymour Street",
+        "amenity": "bar",
+        "name": "The 515 Bar",
+        "website": "https://the515bar.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1143806,
+          49.283841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11415755955",
+      "properties": {
+        "@id": "node/11415755955",
+        "addr:housenumber": "1601",
+        "addr:street": "Commercial Drive",
+        "amenity": "pub",
+        "name": "Junior’s Pub",
+        "opening_hours": "Mo-Th 12:00-25:00; Fr 12:00-26:00; Sa 11:00-26:00; Su 11:00-24:00",
+        "phone": "+1-604-428-5484",
+        "website": "https://www.juniorspub.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0700771,
+          49.2703459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11506480683",
+      "properties": {
+        "@id": "node/11506480683",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "518",
+        "addr:province": "BC",
+        "addr:street": "East Broadway",
+        "amenity": "bar",
+        "name": "The Lido",
+        "phone": "+1-604-879-5436",
+        "website": "http://thelido.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0925017,
+          49.2623373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11514535412",
+      "properties": {
+        "@id": "node/11514535412",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "37",
+        "addr:province": "BC",
+        "addr:street": "West Hastings Street",
+        "amenity": "bar",
+        "check_date": "2026-01-28",
+        "name": "Funky Winker Beans",
+        "opening_hours": "Su-Th 18:00-26:00; Fr-Sa 18:00-27:00",
+        "website": "https://www.funkywinkerbeans.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1058933,
+          49.2819011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11701915483",
+      "properties": {
+        "@id": "node/11701915483",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1025",
+        "addr:postcode": "V7X1M5",
+        "addr:province": "BC",
+        "addr:street": "Dunsmuir Street",
+        "amenity": "bar",
+        "bar": "yes",
+        "changing_table": "yes",
+        "check_date": "2026-09-01",
+        "cuisine": "coffee_shop;breakfast;lunch",
+        "currency:XBT": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "FUNK coffee bar",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-16:00",
+        "outdoor_seating": "yes",
+        "payment:coinos": "yes",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "yes",
+        "phone": "+1 604 260 0564",
+        "website": "https://www.funkcoffeebar.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.120525,
+          49.2863433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11740473569",
+      "properties": {
+        "@id": "node/11740473569",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "99",
+        "addr:postcode": "V6B 1Z3",
+        "addr:province": "BC",
+        "addr:street": "West Georgia Street",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "The Sportsbar LIVE! At Rogers Arena",
+        "opening_hours": "Tu, Th, Sa 16:00-23:30",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1 604-877-6787",
+        "smoking": "no",
+        "website": "https://thesportsbar.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1096968,
+          49.2779922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11740535669",
+      "properties": {
+        "@id": "node/11740535669",
+        "addr:housenumber": "800",
+        "addr:postcode": "V6B 6G1",
+        "addr:street": "Griffiths Way",
+        "amenity": "bar",
+        "name": "Molson Hockey House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1093314,
+          49.2775276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11753990543",
+      "properties": {
+        "@id": "node/11753990543",
+        "addr:housenumber": "1212",
+        "addr:street": "Commercial Drive",
+        "amenity": "bar",
+        "live_music": "yes",
+        "name": "Flamingo Room",
+        "opening_hours": "We-Su 17:00+",
+        "phone": "+1-604-253-9119",
+        "website": "https://www.flamingoroomvan.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.069343,
+          49.2736698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11756395868",
+      "properties": {
+        "@id": "node/11756395868",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1447",
+        "addr:street": "Commercial Drive",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "The Charlatan",
+        "opening_hours": "Mo-Th 11:00-25:00, Fr 11:00-26:00, Sa 10:00-26:00, Su 10:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-253-2777",
+        "smoking": "no",
+        "website": "https://thecharlatanrestaurant.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0698037,
+          49.2715525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11997719235",
+      "properties": {
+        "@id": "node/11997719235",
+        "amenity": "pub",
+        "check_date": "2026-08-13",
+        "indoor_seating": "yes",
+        "name": "The Yard Cafe",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1402307,
+          49.2096265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12164513044",
+      "properties": {
+        "@id": "node/12164513044",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "917",
+        "addr:province": "BC",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "The Boxcar",
+        "opening_hours": "Su-Th 16:00-25:00; Fr-Sa 16:00-26:00",
+        "outdoor_seating": "no",
+        "phone": "+1-604-239-7109",
+        "website": "https://www.boxcarvancouver.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1001156,
+          49.2765849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12557765860",
+      "properties": {
+        "@id": "node/12557765860",
+        "addr:housenumber": "258",
+        "addr:street": "East Hastings Street",
+        "amenity": "pub",
+        "check_date": "2024-01-24",
+        "name": "Savoy Pub",
+        "opening_hours": "Mo-Th 09:00-24:00; Fr-Sa 09:00-25:00; Su 11:00-24:00",
+        "website": "https://savoypub.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.098195,
+          49.2811085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12557765865",
+      "properties": {
+        "@id": "node/12557765865",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "696",
+        "addr:province": "BC",
+        "addr:street": "East Hastings Street",
+        "amenity": "pub",
+        "name": "The Heatley",
+        "opening_hours": "Su-We 16:00-24:00; Th-Sa 16:00-25:00",
+        "phone": "+1-604-336-3958",
+        "website": "https://heatley.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0897385,
+          49.2810084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12641820076",
+      "properties": {
+        "@id": "node/12641820076",
+        "addr:housenumber": "208",
+        "addr:street": "Carrall Street",
+        "amenity": "pub",
+        "name": "Smith's Irish Pub",
+        "website": "https://www.smithsofgastown.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1041226,
+          49.28292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12716672445",
+      "properties": {
+        "@id": "node/12716672445",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1565",
+        "addr:street": "Commercial Drive",
+        "amenity": "pub",
+        "check_date": "2025-03-27",
+        "name": "The Dime"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0698394,
+          49.2708367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12765476601",
+      "properties": {
+        "@id": "node/12765476601",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "251",
+        "addr:postcode": "V6A 1Z6",
+        "addr:province": "BC",
+        "addr:street": "East Georgia Street",
+        "alt_name": "Blnd Tger Dumplings;Laowal",
+        "amenity": "bar",
+        "contact:instagram": "whereislaowai",
+        "contact:yelp": "https://yelp.com/biz/laowai-vancouver",
+        "description": "Laowai is a 1930s Shanghai-inspired speakeasy hidden behind the unassuming BLND TGER dumpling shop in Chinatown, where the secret code \"7\" unlocks a world of theatrical cocktails and share plates.",
+        "description:en": "Laowai is a 1930s Shanghai-inspired speakeasy hidden behind the unassuming BLND TGER dumpling shop in Chinatown, where the secret code \"7\" unlocks a world of theatrical cocktails and share plates.",
+        "description:fr": "Laowai est un speakeasy inspiré des années 1930 à Shanghai, caché derrière le modeste magasin de dumplings BLND TGER dans le quartier chinois, où le code secret « 7 » ouvre les portes d’un univers de cocktails théâtraux et de plats à partager.",
+        "description:ja": "Laowaiは、チャイナタウンにあるひっそりとしたBLND TGER餃子店の奥に隠された、1930年代の上海をモチーフにしたシークレットバーです。秘密のコード「7」を入力すると、舞台のようなカクテルやシェアプレートの世界が広がります。レストランオーナーのLewis Hartとそのチームによって考案されたこの場所は、創意工夫に富んだドリンク、美食餃子、禁酒法時代の魅力への遊び心溢れるオマージュを融合させた没入型の体験を提供します。",
+        "description:ko": "Laowai는 차이나타운의 소박한 BLND TGER 만두 가게 뒤에 숨겨진 1930년대 상하이에서 영감을 받은 스피크이지입니다. 비밀 코드 \"7\"을 사용하면 극적인 칵테일과 공유 접시의 세계가 열립니다. 레스토랑 경영자 Lewis Hart와 그의 팀이 구상한 이 몰입감 있는 공간은 창의적인 음료, 고급 만두, 그리고 금주법 시대의 매력을 재치 있게 결합한 특별한 경험을 선사합니다.",
+        "description:zh": "Laowai 是一家受1930年代上海风情启发的秘密酒吧，隐藏在唐人街那家朴实无华的 BLND TGER 饺子店后面，只有输入神秘密码“7”才能开启充满戏剧性鸡尾酒和共享小盘的世界。由餐厅老板 Lewis Hart 及其团队构想，这个精心设计的小场所带来了一种沉浸式体验，将创意饮品、美味饺子与禁酒时代的魅力巧妙结合。",
+        "dog": "no",
+        "name": "Laowai",
+        "reservation": "no",
+        "website": "https://laowai.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0979765,
+          49.2787081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12765481501",
+      "properties": {
+        "@id": "node/12765481501",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "518",
+        "addr:province": "BC",
+        "addr:street": "Main Street",
+        "alt_name": "Happy Valley Turf Club",
+        "alt_name:zh": "跑馬地 投注店",
+        "amenity": "bar",
+        "cocktails": "yes",
+        "contact:instagram": "whereisbagheera",
+        "contact:yelp": "https://yelp.com/biz/bagheera-vancouver",
+        "description": "Bagheera is a hidden speakeasy cocktail bar in Vancouver's Chinatown, accessed through the fictional Happy Valley Turf Club. With Jungle Book-themed decor, it offers expertly crafted cocktails and small Indian dishes in a cozy atmosphere.",
+        "description:en": "Bagheera is a hidden speakeasy cocktail bar in Vancouver's Chinatown, accessed through the fictional Happy Valley Turf Club. With Jungle Book-themed decor, it offers expertly crafted cocktails and small Indian dishes in a cozy atmosphere.",
+        "description:fr": "Bagheera est un bar secret derrière le fictif Happy Valley Turf Club à Vancouver, avec une décoration inspirée du Livre de la jungle. Les clients savourent des cocktails raffinés et des plats indiens dans une atmosphère immersive, parfaite pour soirée.",
+        "description:ja": "バギーラは、バンクーバーのチャイナタウンにある架空のハッピーバレー競馬クラブの外観の裏に位置する隠れたスピークイージーのカクテルバーです。豪華なジャングルブックをテーマにした装飾と独特の入場プロセスを特徴としており、ゲストは居心地の良い没入型の雰囲気の中で、巧みに作られたカクテルや小さな風味豊かなインド料理を楽しむことができ、特別な夜のお出かけに最適なスポットです。",
+        "description:ko": "바기라는 밴쿠버 차이나타운의 허구의 해피 밸리 경마 클럽 외관 뒤에 위치한 숨겨진 스피크이지 칵테일 바입니다. 화려한 정글 북 테마 장식과 독특한 입장 프로세스를 특징으로 하며, 손님들은 아늑하고 몰입감 있는 분위기 속에서 정교하게 제작된 칵테일과 작은 인도 요리를 즐길 수 있어 특별한 밤 외출에 완벽한 장소입니다.",
+        "description:zh": "Bagheera 是一家隐藏的秘密酒吧，位于温哥华唐人街虚构的快乐谷赛马俱乐部的外表后面，拥有奢华的《丛林之书》主题装饰和独特的入场流程。客人可以在舒适、沉浸的氛围中享用精心调制的鸡尾酒和小份美味的印度菜肴，是一个完美的特别夜晚去处。",
+        "indoor_seating": "yes",
+        "name": "Bagheera",
+        "note:alt_name": "Happy Valley Turf Club is the fictional front company for the speakeasy bar, and is what is visible on the street.",
+        "opening_hours": "Mo-Th 17:00-25:00; Fr-Sa 17:00-26:00; Su 17:00-25:00",
+        "outdoor_seating": "no",
+        "website": "https://bagheera.bar",
+        "website:menu": "https://cdn.prod.website-files.com/62a62a6583e4a168675fa5cf/67239b139efc9954a8ff14b3_Drinks%20menu.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0994687,
+          49.2800398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12943849239",
+      "properties": {
+        "@id": "node/12943849239",
+        "amenity": "pub",
+        "name": "Howe Sound Taphouse & Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0744761,
+          49.2814659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12997424001",
+      "properties": {
+        "@id": "node/12997424001",
+        "addr:housenumber": "45",
+        "addr:street": "Blood Alley Square",
+        "amenity": "bar",
+        "check_date": "2026-07-27",
+        "name": "Is That French?",
+        "phone": "+1-604-499-0680",
+        "website": "https://isthatfrench.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1055878,
+          49.2832632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13050269601",
+      "properties": {
+        "@id": "node/13050269601",
+        "addr:housenumber": "212",
+        "addr:street": "Abbott Street",
+        "amenity": "bar",
+        "check_date": "2026-04-04",
+        "name": "Clough Club",
+        "opening_hours": "We-Th 17:00-25:00; Fr-Sa 17:00-26:00; Su 17:00-25:00",
+        "phone": "+1-604-558-1581",
+        "website": "https://www.freehouse.co/locations/clough-club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1063512,
+          49.2835792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13063706620",
+      "properties": {
+        "@id": "node/13063706620",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "3468",
+        "addr:province": "BC",
+        "addr:street": "West Broadway",
+        "amenity": "pub",
+        "diet:vegan": "no",
+        "name": "Hynes' Irish Pub",
+        "opening_hours": "Su-We 12:00-24:00; Th 12:00-25:00; Fr-Sa 12:00-26:00",
+        "phone": "+1-604-428-1421",
+        "smoking": "no",
+        "website": "https://www.hynesirishpub.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1812961,
+          49.2641472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13076937622",
+      "properties": {
+        "@id": "node/13076937622",
+        "amenity": "pub",
+        "brewery": "temporal_artisanal_ales;boombox;slow_hand",
+        "email": "lounge@threefoldbeer.com",
+        "name": "Threefold Tasting Lounge",
+        "opening_hours": "Mo off; Su,Tu 14:00-21:00; We-Th 14:00-22:00; Fr 14:00-23:00; Sa 12:00-23:00",
+        "shop": "alcohol",
+        "website": "https://www.threefoldbeer.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.073681,
+          49.2834922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13305188086",
+      "properties": {
+        "@id": "node/13305188086",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "488",
+        "addr:province": "BC",
+        "addr:street": "Carrall Street",
+        "amenity": "pub",
+        "name": "The West Pub",
+        "phone": "+1-778-379-2606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.104203,
+          49.2808655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13680659603",
+      "properties": {
+        "@id": "node/13680659603",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "121",
+        "addr:province": "BC",
+        "addr:street": "Robson Street",
+        "amenity": "bar",
+        "check_date": "2026-03-25",
+        "level": "0",
+        "name": "District",
+        "opening_hours": "Mo 16:00-23:00; Tu-Fr 11:30-23:00; Sa-Su 11:00-23:00",
+        "phone": "+1-604-336-3578",
+        "website": "https://districtbar.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1141055,
+          49.2778853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13683934213",
+      "properties": {
+        "@id": "node/13683934213",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "180",
+        "addr:postcode": "V6B 4P4",
+        "addr:province": "BC",
+        "addr:street": "West Georgia Street",
+        "amenity": "bar",
+        "check_date": "2026-10-07",
+        "check_date:opening_hours": "2026-10-07",
+        "email": "vancouver@sharkclub.com",
+        "level": "2",
+        "name": "Shark Club",
+        "opening_hours": "Mo,Tu 11:00-23:00, We-Sa 11:00-24:00, Su 09:30-23:00",
+        "phone": "+16046874275",
+        "website": "https://www.sharkclub.com/location/vancouver/",
+        "website:menu": "https://www.sharkclub.com/our-menus/vancouver-menu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1127949,
+          49.2787611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13707238029",
+      "properties": {
+        "@id": "node/13707238029",
+        "addr:housenumber": "212",
+        "addr:street": "Carrall Street",
+        "amenity": "bar",
+        "check_date": "2026-04-04",
+        "mobile": "+16045586259",
+        "name": "The Cordova Room",
+        "website": "https://thecordovaroom.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.104126,
+          49.2828627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13751644028",
+      "properties": {
+        "@id": "node/13751644028",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "801",
+        "addr:province": "BC",
+        "addr:street": "West Georgia Street",
+        "amenity": "bar",
+        "dress_code:description": "No sandals, flip-flops, tracksuits, sweatsuits, jerseys, sports attire, sport shorts, or athleisure",
+        "indoor_seating": "yes",
+        "name": "Prophecy Cocktail Bar",
+        "opening_hours": "Mo-We 16:00-24:00; Th 16:00-25:00; Fr-Sa 16:00-26:00; Su 16:00-24:30",
+        "outdoor_seating": "no",
+        "phone": "+1-604-336-3383",
+        "website": "https://www.prophecybar.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1188826,
+          49.2834988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13888787075",
+      "properties": {
+        "@id": "node/13888787075",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "208",
+        "addr:province": "BC",
+        "addr:street": "East 12th Avenue",
+        "amenity": "bar",
+        "contact:instagram": "https://www.instagram.com/friendliesbar/",
+        "name": "Friendlies Bar",
+        "opening_hours": "Su,We-Th 17:00-24:00; Fr-Sa 17:00-25:00; Mo-Tu off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1006467,
+          49.26007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13921222486",
+      "properties": {
+        "@id": "node/13921222486",
+        "addr:housenumber": "2210",
+        "addr:street": "Cornwall Avenue",
+        "amenity": "pub",
+        "branch": "Kitsilano",
+        "diet:vegan": "no",
+        "name": "Local Public Eatery",
+        "opening_hours": "Mo-We 11:00-24:00; Th 11:00-25:00; Fr 11:00-26:00; Sa 10:00-26:00; Su 10:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-734-3589",
+        "smoking": "no",
+        "website": "https://localpubliceatery.com/neighbourhoods/kitsilano/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1553972,
+          49.2723514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14061866056",
+      "properties": {
+        "@id": "node/14061866056",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "99",
+        "addr:province": "BC",
+        "addr:street": "Powell Street",
+        "amenity": "bar",
+        "contact:instagram": "https://www.instagram.com/amber99powell/",
+        "name": "Amber",
+        "website": "https://www.amber99.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1025335,
+          49.2833522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14113722926",
+      "properties": {
+        "@id": "node/14113722926",
+        "addr:housenumber": "1755",
+        "addr:street": "West Broadway",
+        "amenity": "bar",
+        "name": "Bar One",
+        "opening_hours": "Su-Th 10:00-23:00; Fr-Sa 10:00-24:00",
+        "phone": "+1-6047306620",
+        "website": "https://baronecanada.com/find-location/vancouver/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1446887,
+          49.2639083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14368148150",
+      "properties": {
+        "@id": "node/14368148150",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "59",
+        "addr:province": "BC",
+        "addr:street": "Powell Street",
+        "amenity": "bar",
+        "name": "The Moon Martini Bar & Restaurant",
+        "opening_hours": "Th-Su 17:00-25:00",
+        "website": "https://themoonyvr.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1026303,
+          49.2833536
+        ]
+      }
+    }
+  ]
+}
